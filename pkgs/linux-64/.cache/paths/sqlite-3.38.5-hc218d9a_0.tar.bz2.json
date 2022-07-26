@@ -1,0 +1,55 @@
+{
+  "paths": [
+    {
+      "_path": "bin/sqlite3",
+      "path_type": "hardlink",
+      "sha256": "feec8e7f8b42a0b3ded2a7331cbd457f0675d91c5493d520d60bb8d323f8f72c",
+      "size_in_bytes": 1637848
+    },
+    {
+      "_path": "include/sqlite3.h",
+      "path_type": "hardlink",
+      "sha256": "4e58238aad4c7472bec3a382c8fd6af4816d3d5a09673092ab4cef289e05e2d8",
+      "size_in_bytes": 611797
+    },
+    {
+      "_path": "include/sqlite3ext.h",
+      "path_type": "hardlink",
+      "sha256": "03420f3be605407d2e1b0bde81aa4822597f3394f0fdeb8225e57526b0eece22",
+      "size_in_bytes": 36750
+    },
+    {
+      "_path": "lib/libsqlite3.so",
+      "path_type": "softlink",
+      "sha256": "3b5775be76cd41a4630db1d6f2b2647476e8d037d257698031eea67e2917dd43",
+      "size_in_bytes": 1370952
+    },
+    {
+      "_path": "lib/libsqlite3.so.0",
+      "path_type": "softlink",
+      "sha256": "3b5775be76cd41a4630db1d6f2b2647476e8d037d257698031eea67e2917dd43",
+      "size_in_bytes": 1370952
+    },
+    {
+      "_path": "lib/libsqlite3.so.0.8.6",
+      "path_type": "hardlink",
+      "sha256": "3b5775be76cd41a4630db1d6f2b2647476e8d037d257698031eea67e2917dd43",
+      "size_in_bytes": 1370952
+    },
+    {
+      "_path": "lib/pkgconfig/sqlite3.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/conda/conda-bld/sqlite_1655328533591/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+      "sha256": "26d7b807b188c91eb6190c243ec694c50064715e80a93c7101c9942afb9f1ebb",
+      "size_in_bytes": 531
+    },
+    {
+      "_path": "share/man/man1/sqlite3.1",
+      "path_type": "hardlink",
+      "sha256": "fb3333f3a5deabad321ca7c332e059cbf3b8bb1a39f24d95700876c2ddd26c86",
+      "size_in_bytes": 8928
+    }
+  ],
+  "paths_version": 1
+}

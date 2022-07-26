@@ -1,0 +1,1 @@
+{"build": "py39h06a4308_0", "build_number": 0, "depends": ["python >=3.9,<3.10.0a0"], "license": "MIT", "name": "pytz", "subdir": "linux-64", "timestamp": 1654762707763, "version": "2022.1", "size": 264971, "md5": "4f78e6b22e43dcc597168917d225a733", "sha256": "07d164a622ea69826599047d6aaed8c24625bffab50fe929e6bba83f8367e33d"}

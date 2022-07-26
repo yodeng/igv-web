@@ -1,0 +1,1 @@
+{"build": "2_cp39", "build_number": 2, "constrains": ["pypy <0a0"], "depends": ["python 3.9.*"], "license": "BSD-3-Clause", "license_family": "BSD", "name": "python_abi", "subdir": "linux-64", "timestamp": 1624472010037, "version": "3.9", "size": 4017, "md5": "39adde4247484de2bb4000122fdcf665", "sha256": "67231829ea0101fee30c68f788fdba40a11bbee8fdac556daaab5832bd27bf3d"}

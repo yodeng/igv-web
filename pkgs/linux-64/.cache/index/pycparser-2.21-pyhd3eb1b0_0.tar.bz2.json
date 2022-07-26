@@ -1,0 +1,1 @@
+{"build": "pyhd3eb1b0_0", "build_number": 0, "depends": ["python >=3.6"], "license": "BSD-3-clause", "license_family": "BSD", "name": "pycparser", "noarch": "python", "subdir": "noarch", "timestamp": 1636541382349, "version": "2.21", "size": 96720, "md5": "e70944ff53d19af4f65073a4f21c7b05", "sha256": "a87214cdef0b093e0b031cca176803dc04fbd948a44bf21503788ed37b42d1b7"}

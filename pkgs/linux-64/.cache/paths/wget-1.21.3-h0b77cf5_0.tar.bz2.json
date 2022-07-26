@@ -1,0 +1,493 @@
+{
+  "paths": [
+    {
+      "_path": "bin/wget",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/conda/conda-bld/wget_1650648110392/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+      "sha256": "8650ba3146e860ef552374ae228cc8d5b2f3e4e56a37075d57347d321e0b1940",
+      "size_in_bytes": 575920
+    },
+    {
+      "_path": "etc/wgetrc",
+      "path_type": "hardlink",
+      "sha256": "3737ac6d89021aaccaaf4cda78d9ba02c894f71e9afaae1fc7722de1d96b1023",
+      "size_in_bytes": 4945
+    },
+    {
+      "_path": "share/info/wget.info",
+      "path_type": "hardlink",
+      "sha256": "5b02cd69d26d0c827da0568e3f3683e963a39051dbba09566da80d83b80940d7",
+      "size_in_bytes": 233669
+    },
+    {
+      "_path": "share/locale/af/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "f264ff010f6ffa567775318f5209d4632ad758024f420c00c8b5fc4856657f58",
+      "size_in_bytes": 726
+    },
+    {
+      "_path": "share/locale/be/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "526e939fd4804437aac0a0b64e8495993ba658e1fe8ba0a29e25348192f59371",
+      "size_in_bytes": 955
+    },
+    {
+      "_path": "share/locale/be/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "5e76e3d406084fff740217a3ba4f5f13e83dc1a73c4b0a30f69a13b63bea0f20",
+      "size_in_bytes": 22888
+    },
+    {
+      "_path": "share/locale/bg/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "71548d0e1867d0ec391df894c780a054d6baacdbb98fbeb84b8b3999e65bc2d5",
+      "size_in_bytes": 6521
+    },
+    {
+      "_path": "share/locale/bg/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "e9860788cf44a49f8f4db6218b3db554240cdab9976bf2bd6eeee187053b7f04",
+      "size_in_bytes": 10160
+    },
+    {
+      "_path": "share/locale/ca/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "64597b3ac5775ed2de15ac371e31fa6e38ce295b585e5d1d4e17e19c94ff8957",
+      "size_in_bytes": 798
+    },
+    {
+      "_path": "share/locale/ca/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "d03f87cf402ad4fb561374a9ab448ebfe355a1cf308a479960ebb7c464e675a2",
+      "size_in_bytes": 33899
+    },
+    {
+      "_path": "share/locale/cs/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "b9ac8e9ed663307b000805456edfe152452ef9d1557ece97144f29deb1101401",
+      "size_in_bytes": 4505
+    },
+    {
+      "_path": "share/locale/cs/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "78f98d23a5b1fdc9ceb90668ea80acc8c3ba605afb8786c1b44b14267925a828",
+      "size_in_bytes": 83036
+    },
+    {
+      "_path": "share/locale/da/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "427da3e986348082b2962e532b01ea726d7e0acdb7f26cdf3d5e91a202a6f4bc",
+      "size_in_bytes": 4148
+    },
+    {
+      "_path": "share/locale/da/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "026f9b8538d6e0481a293e34a49c0a8dee9d38b20a4e9632cbd4931da0e9b4d7",
+      "size_in_bytes": 23047
+    },
+    {
+      "_path": "share/locale/de/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "d99b185918ee779b9f0936a4154117bc3d9cf858c683d49e6c1ca4c6520b31cd",
+      "size_in_bytes": 5081
+    },
+    {
+      "_path": "share/locale/de/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "242f2e5d7112c92943f33438d0ef10fd1f22444f653e16e8fae503e47030f726",
+      "size_in_bytes": 85240
+    },
+    {
+      "_path": "share/locale/el/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "fe5c5e663b18548e58af1725cf9497e10217234a23437807b124d1a0fa947c2b",
+      "size_in_bytes": 669
+    },
+    {
+      "_path": "share/locale/el/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "7fda1ac2f3fe07fdcfaf702dd1f60dd897d42444237592ebc3824e8a8e0018aa",
+      "size_in_bytes": 10774
+    },
+    {
+      "_path": "share/locale/en_GB/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "146a5f2cd88f776dacf098a6f4468574ea6ca1fadb797adae7157d147d4e2b56",
+      "size_in_bytes": 8365
+    },
+    {
+      "_path": "share/locale/eo/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "7a424b39cf1a3676ecb64a4f002581e00737264c175608e1532bbdcf98d49e88",
+      "size_in_bytes": 4768
+    },
+    {
+      "_path": "share/locale/eo/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "eb4c9a10fe6eb49cecde591abeef991eb5d9f1668b6b517883a2333cff5e312f",
+      "size_in_bytes": 75803
+    },
+    {
+      "_path": "share/locale/es/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "01e98c86e297294475526a8f40d025b08ed81e561a2ea9cbd4e7fdb2404fd5c1",
+      "size_in_bytes": 4391
+    },
+    {
+      "_path": "share/locale/es/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "88f94db75cb48853fedbbcf03bed5d1b98548d855a07019b717aa92051c6ffb0",
+      "size_in_bytes": 80500
+    },
+    {
+      "_path": "share/locale/et/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "28d0d9e2779d5a2aae04cfe6f6ab4a88eebe0f947c3acfbbb007e271eefcf912",
+      "size_in_bytes": 3719
+    },
+    {
+      "_path": "share/locale/et/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "a93d01b7317f464db7ffdd39bf851d771256c9213c7a572b573620899fd463f9",
+      "size_in_bytes": 75531
+    },
+    {
+      "_path": "share/locale/eu/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "b63e41d1dbfc6035cb7d9f3e6a922ec6d26065eb7296873b7ef6c21a47fc9d34",
+      "size_in_bytes": 684
+    },
+    {
+      "_path": "share/locale/eu/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "19c5082894aeead6e86cbd904800576854f5b08bd76c5c9ecf7800a484137740",
+      "size_in_bytes": 9872
+    },
+    {
+      "_path": "share/locale/fi/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "2d25631bf7030ecf91df0ad2bcc7bf4b4dc3257185abe8b35aad940ff61e888a",
+      "size_in_bytes": 4927
+    },
+    {
+      "_path": "share/locale/fi/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "97a90ccc127e63d964deaa0b3ecc95c47d4daef1ea581594025b33f0b59de149",
+      "size_in_bytes": 66753
+    },
+    {
+      "_path": "share/locale/fr/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "defcd85c329271d4cdd519aa958f96be8ed332233af91a8cbce8e5435ab72f6e",
+      "size_in_bytes": 5118
+    },
+    {
+      "_path": "share/locale/fr/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "c645e2c9535134e4177e7a983c1cc1214808b3e9da11c0578eea70369bea28cc",
+      "size_in_bytes": 83388
+    },
+    {
+      "_path": "share/locale/ga/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "6fedc414b882e530645d1e8ecb7d0b0a6f71ab751f7d19b2ea267afa23fa55fd",
+      "size_in_bytes": 3979
+    },
+    {
+      "_path": "share/locale/ga/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "95fc34dbd31ed2129f509b8d3ce770ad306fb01c754ba5f6012b6edeac05f78d",
+      "size_in_bytes": 72738
+    },
+    {
+      "_path": "share/locale/gl/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "167abf559876f2050550c024748144d53439ebb14f08189ac2c9c717d31c55c7",
+      "size_in_bytes": 2954
+    },
+    {
+      "_path": "share/locale/gl/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "6977e014b460b98ea864f4537fbaf407c3879cf58d2f337299c39b6cf1b6eba4",
+      "size_in_bytes": 21242
+    },
+    {
+      "_path": "share/locale/he/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "7e4177fac641cdd2dd9dc1fe95adcf9ea3d6b9b54941ec2424ba69041043ac6b",
+      "size_in_bytes": 7130
+    },
+    {
+      "_path": "share/locale/hr/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "f8f7dc420f17fb24a546eb1f7c435f21b9466ec4c63eb948cf82a029611ff31d",
+      "size_in_bytes": 81728
+    },
+    {
+      "_path": "share/locale/hu/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "261e53346eac92af89025120e032f07e93d0af0920c60055ab4430cb866662ef",
+      "size_in_bytes": 4414
+    },
+    {
+      "_path": "share/locale/hu/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "c177e9207e6bd2fc2a755ebf94531d2df1b9c11d0bde9937c57d38ede155fa5b",
+      "size_in_bytes": 77812
+    },
+    {
+      "_path": "share/locale/id/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "fce78e9613b80358c02e737d1e38c249861fccca56b335c5ed05adeb6a2a53ff",
+      "size_in_bytes": 30193
+    },
+    {
+      "_path": "share/locale/it/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "71512219ed0bf768ea76427ee1f73a4afa5b941c8359673205f18f152cdc2859",
+      "size_in_bytes": 5016
+    },
+    {
+      "_path": "share/locale/it/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "aad9b154a4143bc56852882c35d4f7494d8492006261c5eaa89bfdfb9f16181d",
+      "size_in_bytes": 81613
+    },
+    {
+      "_path": "share/locale/ja/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "a5dc2b2c135cfa46b62cb547956713b0a5c784d3565fce78a7261945750a4754",
+      "size_in_bytes": 4864
+    },
+    {
+      "_path": "share/locale/ja/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "e2865aad78226c142999c3c26cee24ca20002e4119d4a5c890b2860457221004",
+      "size_in_bytes": 87154
+    },
+    {
+      "_path": "share/locale/ko/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "661fba50c1bc22990de4769dbe8d720b8d5df4b7e028fb8a771110cf46ecad6e",
+      "size_in_bytes": 628
+    },
+    {
+      "_path": "share/locale/ko/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "29baa2348cacc1754ef83fa51db3f3a25434c9926bed6b6d1e1814ce0e32989d",
+      "size_in_bytes": 81993
+    },
+    {
+      "_path": "share/locale/lt/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "2d48b7de02844ec336069f37a115b1df413ffc5018fd583551d990ffca54bafb",
+      "size_in_bytes": 15711
+    },
+    {
+      "_path": "share/locale/ms/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "4ab9256809e5b083685bfccf1ad49c37f91fb3661e5a40ea1f6adcdeff9eb9e0",
+      "size_in_bytes": 766
+    },
+    {
+      "_path": "share/locale/nb/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "59a0291033188ca465f91f4faab0d2b5963364bd04e795044e4decedc6f6063d",
+      "size_in_bytes": 629
+    },
+    {
+      "_path": "share/locale/nb/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "4c6745bb56fac31748591f72aa2d096207de535749ed04a675de6ad98d4b0d51",
+      "size_in_bytes": 78203
+    },
+    {
+      "_path": "share/locale/nl/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "20dd151155bb282a39b53c64b2c938d79afb8ae0d4f0d90c879d415af9b372ad",
+      "size_in_bytes": 4886
+    },
+    {
+      "_path": "share/locale/nl/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "fc65143946fdfcdd821f0bdd467d3d3512a0c12bf87a34da2fb321badedf3bad",
+      "size_in_bytes": 60201
+    },
+    {
+      "_path": "share/locale/pl/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "dfbf669c45ee982f6ffa60dfe6ab28952d75979f74426b1f5a9850cea79211b6",
+      "size_in_bytes": 5011
+    },
+    {
+      "_path": "share/locale/pl/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "1cb085acfd6cb06fc1769b03f6b604499b5a17c647cb1c8aaeda3af7b9aa3247",
+      "size_in_bytes": 80823
+    },
+    {
+      "_path": "share/locale/pt/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "0c770b80ea4b2d19f32a59f6b5639fcb71f73723c211aed585df92094efc39e7",
+      "size_in_bytes": 4906
+    },
+    {
+      "_path": "share/locale/pt/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "e8794a9b8019fb808688485936cbef48564edc9aaab5b80b05ee31307df71543",
+      "size_in_bytes": 78466
+    },
+    {
+      "_path": "share/locale/pt_BR/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "3c40a48772afcb94023c71af547ff97793be6023826e3140394aaa6a14b83725",
+      "size_in_bytes": 5102
+    },
+    {
+      "_path": "share/locale/pt_BR/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "74fdec17af8b83d45b714eacbace7706a5e5d0377fdc91749cc43113f4bd5dc9",
+      "size_in_bytes": 80236
+    },
+    {
+      "_path": "share/locale/ro/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "9cc0986e90c1f7744abaeb94eb839872c9cf4244ab8b75fc6dc6ad54b2938f46",
+      "size_in_bytes": 5093
+    },
+    {
+      "_path": "share/locale/ro/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "f93ec0aef6cbe821b1516fdad44df9241629a128632a47d0fee4c7669b0da0a9",
+      "size_in_bytes": 79453
+    },
+    {
+      "_path": "share/locale/ru/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "2d529eae1faa78d2e5646a58a77848e25333f693953fc83096f9d2341be75b76",
+      "size_in_bytes": 6387
+    },
+    {
+      "_path": "share/locale/ru/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "67c54401b0238092a6ac8c6a1ce75305e6dc6f93b8b8e30abbcdcf2ae46d8367",
+      "size_in_bytes": 99167
+    },
+    {
+      "_path": "share/locale/rw/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "d0a05c8067f22de428744abb76c4ee030e3a894b96ad2cf89528a2f31ee726fb",
+      "size_in_bytes": 577
+    },
+    {
+      "_path": "share/locale/sk/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "25272ffee1829e8838a3a2a35eb6c99dbc2d69324da324e55edb67f3d99b50d4",
+      "size_in_bytes": 625
+    },
+    {
+      "_path": "share/locale/sk/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "a809c3c18862594201d66c91331a945ed838f6543e0233a07ef4f2024c9c44a5",
+      "size_in_bytes": 80318
+    },
+    {
+      "_path": "share/locale/sl/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "37122ca9d9f576fd53c128f687f21879ab92a910bdc4369250cdab873f0ddf29",
+      "size_in_bytes": 4307
+    },
+    {
+      "_path": "share/locale/sl/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "f40e9965ecdca21f94a2294e15d144159d862d619bfa1957079b87d33a09e502",
+      "size_in_bytes": 23761
+    },
+    {
+      "_path": "share/locale/sr/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "883068c32e5dd2340c5508c7e6398824753a5f2f02d36147c27ebb94733f201d",
+      "size_in_bytes": 6163
+    },
+    {
+      "_path": "share/locale/sr/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "33c8a4eab5ab57f235b1bb6f971d3959a9fe986c07136fa7b2e60f0f1978c397",
+      "size_in_bytes": 98919
+    },
+    {
+      "_path": "share/locale/sv/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "638c66ff1f641acb5eeccf7a6663f0e5e8ae68fdea3e8483b5ccbb86c12e86f2",
+      "size_in_bytes": 4731
+    },
+    {
+      "_path": "share/locale/sv/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "7842251e31cc11355de262698abd8246cdc53748ad5a93547fe2dbd81386cd01",
+      "size_in_bytes": 78593
+    },
+    {
+      "_path": "share/locale/tr/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "7b71cf1d8543a1c21de97dd16f555c5c397340ced5acd758bcbb27edaee951a9",
+      "size_in_bytes": 821
+    },
+    {
+      "_path": "share/locale/tr/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "1584ef4208a225e20d90b252fb9c3d474162296c591177b767de5613ee9d4039",
+      "size_in_bytes": 72243
+    },
+    {
+      "_path": "share/locale/uk/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "51aa04ca341a1704d651e35ffb213a12669e3df359a49b2022473814fd2f9f13",
+      "size_in_bytes": 6260
+    },
+    {
+      "_path": "share/locale/uk/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "be688ed610fef3e259ccb708101b58d2f89a2b06bb16cbaec19a5542f17c370d",
+      "size_in_bytes": 100069
+    },
+    {
+      "_path": "share/locale/vi/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "3325c03cef34d58074a89cfb04638152639642d92992e700ea4a1e5f41d1c699",
+      "size_in_bytes": 4873
+    },
+    {
+      "_path": "share/locale/vi/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "26cb827e99ea02fed8234ffcf4fbbfd437ab3e85a475ff5fde750743233ee06a",
+      "size_in_bytes": 77855
+    },
+    {
+      "_path": "share/locale/zh_CN/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "731c6411c601044a6873d3eb0ee2c87d3f7772410103942a8599b5cb6217ce43",
+      "size_in_bytes": 3866
+    },
+    {
+      "_path": "share/locale/zh_CN/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "f27d7830cc4b752e4058bfba5b0afd0765dc3e8d46091cfbf05790984a002bdf",
+      "size_in_bytes": 73795
+    },
+    {
+      "_path": "share/locale/zh_TW/LC_MESSAGES/wget-gnulib.mo",
+      "path_type": "hardlink",
+      "sha256": "0a121fe98f109b684fdf6a2f385db72264b04b875febabff852f54d293082172",
+      "size_in_bytes": 4582
+    },
+    {
+      "_path": "share/locale/zh_TW/LC_MESSAGES/wget.mo",
+      "path_type": "hardlink",
+      "sha256": "9b9949ac5e9d87aa7ce0ee0fd3bd7bc6019346842098c6169d911b5d42dc8006",
+      "size_in_bytes": 75850
+    }
+  ],
+  "paths_version": 1
+}

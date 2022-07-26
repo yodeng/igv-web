@@ -1,0 +1,1 @@
+{"build": "h2531618_2", "build_number": 2, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "GPL 2 and LGPL 3", "name": "gmp", "subdir": "linux-64", "timestamp": 1612242995303, "version": "6.2.1", "size": 833941, "md5": "ff3b51fcfc4c50141c74d44c734b1c5c", "sha256": "b858ce43aa232db965f917ec297acc15a3851aceae033390963bc58b8a4d6c5d"}

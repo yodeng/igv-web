@@ -1,0 +1,1 @@
+{"build": "pyhd8ed1ab_0", "build_number": 0, "depends": ["python >=3.5"], "license": "BSD-3-Clause", "name": "sqlparse", "noarch": "python", "subdir": "noarch", "timestamp": 1631317454431, "version": "0.4.2", "size": 34544, "md5": "25ba7b3dfd098e438d621c888ebb0519", "sha256": "a57dd37743d82bc36163826e20bfcb596fac0bb38315ffc6a40b2a9a3dc85899"}

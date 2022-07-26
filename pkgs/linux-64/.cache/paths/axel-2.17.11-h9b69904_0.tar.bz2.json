@@ -1,0 +1,79 @@
+{
+  "paths": [
+    {
+      "_path": "bin/axel",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/axel_1641158278283/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+      "sha256": "f1be2a43d80e17c0543a4fa40a02265a51396a59caecbec3108731e7abe253e8",
+      "size_in_bytes": 78864
+    },
+    {
+      "_path": "share/locale/de/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "33eb6d47ddf1d54bbc1f1f88af8bb81c41822df66546fa981f8a535c2919305f",
+      "size_in_bytes": 7154
+    },
+    {
+      "_path": "share/locale/es/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "cb112ce106e317f08473850e511c8dba1b855a8dae74284cd949c6a21a713f6c",
+      "size_in_bytes": 7191
+    },
+    {
+      "_path": "share/locale/id_ID/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "b0d7e1a731a651346977384eb75a07e226cce76efe04e49e8e4e53da33cf051a",
+      "size_in_bytes": 5759
+    },
+    {
+      "_path": "share/locale/it/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "41dbc1d1f6579f81ae6617d2096513ae632c2977b66594756ee3dbde7b88b89b",
+      "size_in_bytes": 7234
+    },
+    {
+      "_path": "share/locale/ja/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "9d348109dd90d15238ef62e7ec3aa5e398452841755e0840621ef4937fda7900",
+      "size_in_bytes": 6666
+    },
+    {
+      "_path": "share/locale/nl/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "8a7a62d69f691789b7398445a06bf7330e6da446f783fda6036584f76391342d",
+      "size_in_bytes": 4079
+    },
+    {
+      "_path": "share/locale/pt_BR/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "fb97c8c084d1c96b19aa1399f224d36df625e0481670c0fc82cfd1fb607f3c09",
+      "size_in_bytes": 7122
+    },
+    {
+      "_path": "share/locale/ru/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "d14ab0673a9c0e35d5ea8ff4044593472ca4a5a9b942e5972265e9984e26992b",
+      "size_in_bytes": 7120
+    },
+    {
+      "_path": "share/locale/tr/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "8e17d7c73dbf11b451cc91669658b4d7585f31a3b73358f00d2c22cb29b5b164",
+      "size_in_bytes": 7036
+    },
+    {
+      "_path": "share/locale/zh_CN/LC_MESSAGES/axel.mo",
+      "path_type": "hardlink",
+      "sha256": "6283dfda08e2f3c803387b65d900c7cfa2e0b67b94b90d9ad50334ff21cae878",
+      "size_in_bytes": 6400
+    },
+    {
+      "_path": "share/man/man1/axel.1",
+      "path_type": "hardlink",
+      "sha256": "2e13c8ef56e6095e8203e6b60dfee96564cc54d53b6879e718d0408d251b6caa",
+      "size_in_bytes": 5836
+    }
+  ],
+  "paths_version": 1
+}

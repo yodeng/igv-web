@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "_path": "bin/libdeflate-gunzip",
+      "path_type": "hardlink",
+      "sha256": "f8cbeb0e8239b494ddfc939debfd8f1fe08f4fbb5b3324178c437f5a75b95f8f",
+      "size_in_bytes": 82744
+    },
+    {
+      "_path": "bin/libdeflate-gzip",
+      "path_type": "hardlink",
+      "sha256": "f8cbeb0e8239b494ddfc939debfd8f1fe08f4fbb5b3324178c437f5a75b95f8f",
+      "size_in_bytes": 82744
+    },
+    {
+      "_path": "include/libdeflate.h",
+      "path_type": "hardlink",
+      "sha256": "fb77e31775e10c200598911e803e64e73ce46211815c8de302d69d67d47227b6",
+      "size_in_bytes": 15152
+    },
+    {
+      "_path": "lib/libdeflate.so",
+      "path_type": "softlink",
+      "sha256": "3cf233198436fec3259d4bae14aa77500173dcaf3221982e00ba4ef322a73b7d",
+      "size_in_bytes": 64928
+    },
+    {
+      "_path": "lib/libdeflate.so.0",
+      "path_type": "hardlink",
+      "sha256": "3cf233198436fec3259d4bae14aa77500173dcaf3221982e00ba4ef322a73b7d",
+      "size_in_bytes": 64928
+    }
+  ],
+  "paths_version": 1
+}

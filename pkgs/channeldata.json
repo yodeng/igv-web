@@ -1,0 +1,2193 @@
+{
+  "channeldata_version": 1,
+  "packages": {
+    "_libgcc_mutex": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/AnacondaRecipes/_libgcc_mutex-feedstock",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "None",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Mutex for libgcc and libgcc-ng",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1578324546,
+      "version": "0.1"
+    },
+    "_openmp_mutex": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/conda-forge/ctng-compilers-feedstock",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "4.5": {
+          "strong": [
+            "_openmp_mutex >=4.5"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "OpenMP Implementation Mutex",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1650670423,
+      "version": "4.5"
+    },
+    "axel": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/axel-download-accelerator/axel",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-2.0-or-later WITH openvpn-openssl-exception",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/axel-download-accelerator/axel/releases/download/v2.17.11/axel-2.17.11.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Lightweight CLI download accelerator",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1641158370,
+      "version": "2.17.11"
+    },
+    "brotlipy": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/python-hyper/brotlipy",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/python-hyper/brotlipy",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/b/brotlipy/brotlipy-0.7.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Python bindings to the Brotli compression library",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1648854266,
+      "version": "0.7.0"
+    },
+    "bzip2": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Bzip2 is a freely available high-quality data compressor. It typically compresses files to within 10% to 15% of the best available techniques, whilst being around twice as fast at compression and six times faster at decompression.",
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": "http://www.bzip.org/docs.html",
+      "home": "http://www.bzip.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "bzip2-1.0.6",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.0.8": {
+          "weak": [
+            "bzip2 >=1.0.8,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://sourceware.org/pub/bzip2/bzip2-1.0.8.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "high-quality data compressor",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1606604745,
+      "version": "1.0.8"
+    },
+    "c-ares": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/c-ares/c-ares",
+      "doc_source_url": null,
+      "doc_url": "https://c-ares.org/docs.html",
+      "home": "https://c-ares.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.18.1": {
+          "weak": [
+            "c-ares >=1.18.1,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://c-ares.org/download/c-ares-1.18.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "This is c-ares, an asynchronous resolver library",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1641918271,
+      "version": "1.18.1"
+    },
+    "ca-certificates": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/conda-forge/ca-certificates-feedstock",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "ISC",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/c/certifi/certifi-2022.6.15.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Certificates for use with other packages.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1655340944,
+      "version": "2022.6.15"
+    },
+    "certifi": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Certifi is a curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.",
+      "dev_url": "https://github.com/certifi/python-certifi",
+      "doc_source_url": "https://github.com/certifi/python-certifi/blob/master/README.rst",
+      "doc_url": "https://github.com/certifi/python-certifi/blob/master/README.rst",
+      "home": "https://github.com/certifi/python-certifi",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MPL-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Python package for providing Mozilla's CA Bundle.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1655968870,
+      "version": "2022.6.15"
+    },
+    "cffi": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Cffi aims to allow users to call C code from Python without having to learn a 3rd language. It provides a convenient and reliable way to call compiled C code from Python using interface declarations written in C.",
+      "dev_url": "https://bitbucket.org/cffi/cffi/overview",
+      "doc_source_url": "https://bitbucket.org/cffi/cffi/src/default/doc/?at=default",
+      "doc_url": "http://cffi.readthedocs.org",
+      "home": "https://bitbucket.org/cffi/cffi",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/c/cffi/cffi-1.15.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Foreign Function Interface for Python calling C code.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1656782943,
+      "version": "1.15.1"
+    },
+    "charset-normalizer": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/ousret/charset_normalizer",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/c/charset-normalizer/charset-normalizer-2.1.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1655906320,
+      "version": "2.1.0"
+    },
+    "cryptography": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Cryptography is a package which provides cryptographic recipes and primitives to Python developers. Our goal is for it to be your \"cryptographic standard library\". It supports Python 3.6+ and PyPy3 7.2+. cryptography includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions.",
+      "dev_url": "https://github.com/pyca/cryptography",
+      "doc_source_url": "https://github.com/pyca/cryptography/blob/master/docs/index.rst",
+      "doc_url": "https://cryptography.io/en/37.0.1/",
+      "home": "https://github.com/pyca/cryptography",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "(BSD-3-Clause OR Apache-2.0) AND PSF-2.0 AND MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/c/cryptography/cryptography-37.0.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Provides cryptographic recipes and primitives to Python developers",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1652101795,
+      "version": "37.0.1"
+    },
+    "cython": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language. It makes writing C extensions for Python as easy as Python itself.",
+      "dev_url": "https://github.com/cython/cython",
+      "doc_source_url": null,
+      "doc_url": "https://docs.cython.org",
+      "home": "http://www.cython.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Apache-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/C/Cython/Cython-0.29.30.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The Cython compiler for writing C extensions for the Python language",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1652809379,
+      "version": "0.29.30"
+    },
+    "django": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/django/django",
+      "doc_source_url": null,
+      "doc_url": "http://www.djangoproject.com/",
+      "home": "http://www.djangoproject.com/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/D/Django/Django-2.2.14.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A high-level Python Web framework that encourages rapid development and clean, pragmatic design.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1628097545,
+      "version": "2.2.14"
+    },
+    "gettext": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.gnu.org/software/gettext/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "0.21.0": {
+          "weak": [
+            "gettext >=0.21.0,<1.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Internationalization package",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1617290893,
+      "version": "0.21.0"
+    },
+    "gmp": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://gmplib.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL 2 and LGPL 3",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "6.2.1": {
+          "weak": [
+            "gmp >=6.2.1"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://gmplib.org/download/gmp/gmp-6.2.1.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The GNU multiprecision library.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1612242995,
+      "version": "6.2.1"
+    },
+    "htslib": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/samtools/htslib",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.13": {
+          "weak": [
+            "htslib >=1.13,<1.14.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/samtools/htslib/releases/download/1.13/htslib-1.13.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "C library for high-throughput sequencing data formats.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1625829943,
+      "version": "1.13"
+    },
+    "icu": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://site.icu-project.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "70.1": {
+          "weak": [
+            "icu >=70.1,<71.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "International Components for Unicode.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1648050221,
+      "version": "70.1"
+    },
+    "idna": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "A library to support the Internationalised Domain Names in Applications (IDNA) protocol as specified in RFC 5891. This version of the protocol is often referred to as \"IDNA2008\".",
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/kjd/idna",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/i/idna/idna-3.3.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Internationalized Domain Names in Applications (IDNA).",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1642433628,
+      "version": "3.3"
+    },
+    "igvweb": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/yodeng/igvweb",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": null,
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1658745884,
+      "version": "1.0.0"
+    },
+    "keyutils": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Keyutils is a set of utilities for managing the key retention facility in the kernel, which can be used by filesystems, block devices and more to gain and retain the authorization and encryption keys required to perform secure operations.",
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://people.redhat.com/~dhowells/keyutils/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "LGPL-2.1-or-later",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.6.1": {
+          "weak": [
+            "keyutils >=1.6.1,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://people.redhat.com/~dhowells/keyutils/keyutils-1.6.1.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Linux Key Management Utilities",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1646151697,
+      "version": "1.6.1"
+    },
+    "krb5": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://web.mit.edu/kerberos/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.19.3": {
+          "weak": [
+            "krb5 >=1.19.3,<1.20.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/krb5/krb5/archive/krb5-1.19.3-final.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A network authentication protocol.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1647339330,
+      "version": "1.19.3"
+    },
+    "ld_impl_linux-64": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.gnu.org/software/binutils/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1652971360,
+      "version": "2.38"
+    },
+    "libcurl": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "Curl is an open source command line tool and library for transferring data with URL syntax. It is used in command lines or scripts to transfer data.",
+      "dev_url": "https://github.com/curl/curl",
+      "doc_source_url": "https://github.com/curl/curl/tree/master/docs",
+      "doc_url": "https://curl.haxx.se/docs/",
+      "home": "http://curl.haxx.se/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "curl",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "7.83.1": {
+          "weak": [
+            "libcurl >=7.83.1,<8.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "http://curl.haxx.se/download/curl-7.83.1.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "tool and library for transferring data with URL syntax",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1652281595,
+      "version": "7.83.1"
+    },
+    "libdeflate": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/ebiggers/libdeflate",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.7": {
+          "weak": [
+            "libdeflate >=1.7,<1.8.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/ebiggers/libdeflate/archive/v1.7.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "libdeflate is a library for fast, whole-buffer DEFLATE-based compression and decompression.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1611255495,
+      "version": "1.7"
+    },
+    "libedit": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "This is an autotool- and libtoolized port of the NetBSD Editline library (libedit). This Berkeley-style licensed command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline",
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://thrysoee.dk/editline/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-2-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "3.1.20210714": {
+          "weak": [
+            "libedit >=3.1.20210714,<3.2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "http://thrysoee.dk/editline/libedit-20210714-3.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Editline Library (libedit)",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1630071246,
+      "version": "3.1.20210714"
+    },
+    "libev": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://software.schmorp.de/pkg/libev.html",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-2-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "4.33": {
+          "weak": [
+            "libev >=4.33,<4.34.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "http://dist.schmorp.de/libev/Attic/libev-4.33.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A full-featured and high-performance event loop that is loosely modeled after libevent, but without its limitations and bugs.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1632891483,
+      "version": "4.33"
+    },
+    "libffi": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "The libffi library provides a portable, high level programming interface to various calling conventions. This allows a programmer to call any function specified by a call interface description at run-time.",
+      "dev_url": "https://github.com/libffi/libffi",
+      "doc_source_url": null,
+      "doc_url": "https://sourceware.org/libffi/",
+      "home": "https://sourceware.org/libffi/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "3.4.2": {
+          "weak": [
+            "libffi >=3.4,<4.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/libffi/libffi/releases/download/v3.4.2/libffi-3.4.2.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A Portable Foreign Function Interface Library.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1636488182,
+      "version": "3.4.2"
+    },
+    "libgcc-ng": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://gcc.gnu.org/onlinedocs/gccint/Libgcc.html",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The GCC low-level runtime library",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1652326210,
+      "version": "12.1.0"
+    },
+    "libgomp": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://gcc.gnu.org/onlinedocs/gccint/Libgcc.html",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "12.1.0": {
+          "strong": [
+            "_openmp_mutex >=4.5"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The GCC OpenMP implementation.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1652326149,
+      "version": "12.1.0"
+    },
+    "libiconv": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "This library provides an iconv() implementation, for use on systems which don't have one, or whose implementation cannot convert from/to Unicode.",
+      "dev_url": "https://git.savannah.gnu.org/cgit/libiconv.git/tree/",
+      "doc_source_url": null,
+      "doc_url": "https://www.gnu.org/savannah-checkouts/gnu/libiconv/documentation/libiconv-1.16/iconv.1.html",
+      "home": "https://www.gnu.org/software/libiconv/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-or-later",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.16": {
+          "weak": [
+            "libiconv >=1.16,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Provides iconv for systems which don't have one (or that cannot convert from/to Unicode.)",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1650983457,
+      "version": "1.16"
+    },
+    "libidn2": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.gnu.org/software/libidn/#libidn2",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "LGPLv2",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "2.3.3": {
+          "weak": [
+            "libidn2 >=2,<3.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://ftp.gnu.org/gnu/libidn/libidn2-2.3.3.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Library for internationalized domain names (IDNA2008) support",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1657588970,
+      "version": "2.3.3"
+    },
+    "libnghttp2": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "This is an implementation of the Hypertext Transfer Protocol version 2 in C.  The framing layer of HTTP/2 is implemented as a reusable C library. On top of that, we have implemented an HTTP/2 client, server and proxy. We have also developed load test and benchmarking tools for HTTP/2.",
+      "dev_url": "https://github.com/nghttp2/nghttp2",
+      "doc_source_url": null,
+      "doc_url": "https://nghttp2.org/documentation/",
+      "home": "http://github.com/nghttp2/nghttp2",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.47.0": {
+          "weak": [
+            "libnghttp2 >=1.47.0,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/nghttp2/nghttp2/releases/download/v1.47.0/nghttp2-1.47.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "This is an implementation of Hypertext Transfer Protocol version 2.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1645636549,
+      "version": "1.47.0"
+    },
+    "libnsl": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/thkukuk/libnsl",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-2.0-only",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "2.0.0": {
+          "weak": [
+            "libnsl >=2.0.0,<2.1.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://github.com/thkukuk/libnsl/releases/download/v2.0.0/libnsl-2.0.0.tar.xz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Public client interface library for NIS(YP)",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1633040059,
+      "version": "2.0.0"
+    },
+    "libssh2": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "libssh2 is a library implementing the SSH2 protocol, available under the revised BSD license.",
+      "dev_url": "https://github.com/libssh2/libssh2",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.libssh2.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.10.0": {
+          "weak": [
+            "libssh2 >=1.10.0,<2.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://www.libssh2.org/download/libssh2-1.10.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "the SSH library",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1632680621,
+      "version": "1.10.0"
+    },
+    "libstdcxx-ng": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://gcc.gnu.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only WITH GCC-exception-3.1",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The GNU C++ Runtime Library",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1652326248,
+      "version": "12.1.0"
+    },
+    "libunistring": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://www.gnu.org/software/libunistring",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only OR LGPL-3.0-only",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "0.9.10": {
+          "weak": [
+            "libunistring >=0,<1.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "http://ftpmirror.gnu.org/libunistring/libunistring-0.9.10.tar.xz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "This library provides functions for manipulating Unicode strings and for manipulating C strings according to the Unicode standard.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1626955018,
+      "version": "0.9.10"
+    },
+    "libuuid": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://sourceforge.net/projects/libuuid/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "2.32.1": {
+          "weak": [
+            "libuuid >=2.32.1,<3.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/v2.32/util-linux-2.32.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Portable uuid C library.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1607292654,
+      "version": "2.32.1"
+    },
+    "libxml2": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Though libxml2 is written in C a variety of language bindings make it available in other environments.",
+      "dev_url": "https://git.gnome.org/browse/libxml2/",
+      "doc_source_url": "https://github.com/GNOME/libxml2/blob/master/doc/index.html",
+      "doc_url": "http://xmlsoft.org/html/index.html",
+      "home": "http://xmlsoft.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "2.9.14": {
+          "weak": [
+            "libxml2 >=2.9.14,<2.10.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://gitlab.gnome.org/GNOME/libxml2/-/archive/v2.9.14/libxml2-v2.9.14.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The XML C parser and toolkit of Gnome",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1657026670,
+      "version": "2.9.14"
+    },
+    "libzlib": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "zlib is designed to be a free, general-purpose, lossless data-compression library for use on virtually any computer hardware and operating system.",
+      "dev_url": "https://github.com/madler/zlib",
+      "doc_source_url": null,
+      "doc_url": "http://zlib.net/manual.html",
+      "home": "http://zlib.net/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Zlib",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.2.12": {
+          "weak": [
+            "libzlib >=1.2.12,<1.3.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": [
+        "http://zlib.net/zlib-1.2.12.tar.gz",
+        "https://gnupg.org/ftp/gcrypt/zlib/zlib-1.2.12.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Massively spiffy yet delicately unobtrusive compression library",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1657716503,
+      "version": "1.2.12"
+    },
+    "ncurses": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "The ncurses (new curses) library is a free software emulation of curses in System V Release 4.0 (SVr4), and more. It uses terminfo format, supports pads and color and multiple highlights and forms characters and function-key mapping, and has all the other SVr4-curses enhancements over BSD curses. SVr4 curses is better known today as X/Open Curses",
+      "dev_url": "http://invisible-island.net/ncurses/",
+      "doc_source_url": null,
+      "doc_url": "http://invisible-island.net/ncurses/NCURSES-Programming-HOWTO.html",
+      "home": "http://www.gnu.org/software/ncurses/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "X11 AND BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "6.2": {
+          "weak": [
+            "ncurses >=6.2,<7.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "http://ftp.gnu.org/pub/gnu/ncurses/ncurses-6.2.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Library for text-based user interfaces",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1605391670,
+      "version": "6.2"
+    },
+    "netifaces": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/al45tair/netifaces",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/al45tair/netifaces",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.org/packages/source/n/netifaces/netifaces-0.11.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Portable network interface information.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1655699579,
+      "version": "0.11.0"
+    },
+    "openssl": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/openssl/openssl",
+      "doc_source_url": null,
+      "doc_url": "https://www.openssl.org/docs/man1.1.1/",
+      "home": "https://www.openssl.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "OpenSSL",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.1.1q": {
+          "weak": [
+            "openssl >=1.1.1q,<1.1.2a"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://www.openssl.org/source/openssl-1.1.1q.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "OpenSSL is an open-source implementation of the SSL and TLS protocols",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1657551292,
+      "version": "1.1.1q"
+    },
+    "pip": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/pypa/pip",
+      "doc_source_url": null,
+      "doc_url": "https://pip.pypa.io/en/stable/",
+      "home": "https://pip.pypa.io/en/stable/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/pip/pip-22.2.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "PyPA recommended tool for installing Python packages",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1658418929,
+      "version": "22.2"
+    },
+    "psutil": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "psutil (process and system utilities) is a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network) in Python. It is useful mainly for system monitoring, profiling and limiting process resources and management of running processes.",
+      "dev_url": "https://github.com/giampaolo/psutil",
+      "doc_source_url": "https://github.com/giampaolo/psutil/blob/master/docs/index.rst",
+      "doc_url": "http://pythonhosted.org/psutil/",
+      "home": "https://github.com/giampaolo/psutil",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/psutil/psutil-5.9.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A cross-platform process and system utilities module for Python",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1653089266,
+      "version": "5.9.1"
+    },
+    "pycparser": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "pycparser is a complete parser of the C language, written in pure Python using the PLY parsing library. It parses C code into an AST and can serve as a front-end for C compilers or analysis tools.",
+      "dev_url": "https://github.com/eliben/pycparser",
+      "doc_source_url": null,
+      "doc_url": "https://github.com/eliben/pycparser/blob/master/README.rst",
+      "home": "https://github.com/eliben/pycparser",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/pycparser/pycparser-2.21.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Complete C99 parser in pure Python",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1636541382,
+      "version": "2.21"
+    },
+    "pycryptodome": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/Legrandin/pycryptodome",
+      "doc_source_url": null,
+      "doc_url": "https://www.pycryptodome.org/en/latest/",
+      "home": "http://www.pycryptodome.org",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-2-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/pycryptodome/pycryptodome-3.15.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Cryptographic library for Python",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1657163587,
+      "version": "3.15.0"
+    },
+    "pyopenssl": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "pyOpenSSL is a high-level wrapper around a subset of the OpenSSL library. It includes: -SSL.Connection objects, wrapping the methods of Python's portable sockets -Callbacks written in Python -Extensive error-handling mechanism, mirroring OpenSSL's error codes and much more.",
+      "dev_url": "https://github.com/pyca/pyopenssl",
+      "doc_source_url": "https://github.com/pyca/pyopenssl/blob/22.0.0/doc/index.rst",
+      "doc_url": "https://pyopenssl.readthedocs.org/en/stable/",
+      "home": "https://github.com/pyca/pyopenssl",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Apache-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/pyopenssl/pyOpenSSL-22.0.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Python wrapper module around the OpenSSL library",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1643788591,
+      "version": "22.0.0"
+    },
+    "pysam": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/pysam-developers/pysam",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/pysam-developers/pysam/archive/v0.17.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Pysam is a Python module for reading and manipulating SAM/BAM/VCF/BCF files. It's a lightweight wrapper of the htslib C-API, the same one that powers samtools, bcftools, and tabix.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1632995264,
+      "version": "0.17.0"
+    },
+    "pysocks": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/Anorov/PySocks",
+      "doc_source_url": null,
+      "doc_url": "https://github.com/Anorov/PySocks/blob/master/README.md",
+      "home": "https://github.com/Anorov/PySocks",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD 3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/P/PySocks/PySocks-1.7.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1648857337,
+      "version": "1.7.1"
+    },
+    "python": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.",
+      "dev_url": "https://docs.python.org/devguide/",
+      "doc_source_url": "https://github.com/python/pythondotorg/blob/master/docs/source/index.rst",
+      "doc_url": "https://www.python.org/doc/versions/",
+      "home": "https://www.python.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Python-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "3.9.9": {
+          "noarch": [
+            "python"
+          ],
+          "weak": [
+            "python_abi 3.9.* *_cp39"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "General purpose programming language",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1639969155,
+      "version": "3.9.9"
+    },
+    "python_abi": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/conda-forge/python_abi-feedstock",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Metapackage to select python implementation",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1624472010,
+      "version": "3.9"
+    },
+    "pytz": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time.",
+      "dev_url": "https://github.com/stub42/pytz",
+      "doc_source_url": "https://github.com/stub42/pytz#readme",
+      "doc_url": "https://pythonhosted.org/pytz/",
+      "home": "http://pythonhosted.org/pytz/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/p/pytz/pytz-2022.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "World timezone definitions, modern and historical.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1654762707,
+      "version": "2022.1"
+    },
+    "readline": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-only",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "8.1": {
+          "weak": [
+            "readline >=8.1,<9.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://ftp.gnu.org/gnu/readline/readline-8.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "library for editing command lines as they are typed in",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1618862995,
+      "version": "8.1"
+    },
+    "requests": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/psf/requests",
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://python-requests.org",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Apache-2.0",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/r/requests/requests-2.28.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Requests is an elegant and simple HTTP library for Python, built with \u2665.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1656534156,
+      "version": "2.28.1"
+    },
+    "samtools": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/samtools/samtools",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://github.com/samtools/samtools/releases/download/1.13/samtools-1.13.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Tools for dealing with SAM, BAM and CRAM files",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1625833395,
+      "version": "1.13"
+    },
+    "setuptools": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "Setuptools is a fully-featured, actively-maintained, and stable library designed to facilitate packaging Python projects.",
+      "dev_url": "https://github.com/pypa/setuptools",
+      "doc_source_url": "https://github.com/pypa/setuptools/tree/master/docs",
+      "doc_url": "http://pythonhosted.org/setuptools/",
+      "home": "https://github.com/pypa/setuptools",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/s/setuptools/setuptools-63.2.0.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Download, build, install, upgrade, and uninstall Python packages",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1657808997,
+      "version": "63.2.0"
+    },
+    "sqlite": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. It is the most used database engine in the world.",
+      "dev_url": "https://sqlite.org/src/dir?ci=trunk",
+      "doc_source_url": "https://sqlite.org/src/dir?ci=trunk&name=doc",
+      "doc_url": "https://www.sqlite.org/docs.html",
+      "home": "https://www.sqlite.org/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "blessing",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "3.38.5": {
+          "weak": [
+            "sqlite >=3.38.5,<4.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://www.sqlite.org/2022/sqlite-autoconf-3380500.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Implements a self-contained, zero-configuration, SQL database engine",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1655328608,
+      "version": "3.38.5"
+    },
+    "sqlparse": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "sqlparse is a non-validating SQL parser for Python. It provides support for parsing, splitting and formatting SQL statements.",
+      "dev_url": "https://github.com/andialbrecht/sqlparse",
+      "doc_source_url": null,
+      "doc_url": "https://sqlparse.readthedocs.org",
+      "home": "https://github.com/andialbrecht/sqlparse",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "BSD-3-Clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/s/sqlparse/sqlparse-0.4.2.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A non-validating SQL parser module for Python.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1631317454,
+      "version": "0.4.2"
+    },
+    "tabix": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "https://github.com/samtools/htslib",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "C library and command line tools for high-throughput sequencing data formats.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1619076843,
+      "version": "1.11"
+    },
+    "tk": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": null,
+      "doc_source_url": null,
+      "doc_url": null,
+      "home": "http://www.tcl.tk/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Tcl/Tk",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "8.6.12": {
+          "weak": [
+            "tk >=8.6.12,<8.7.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A dynamic programming language with GUI support.  Bundles Tcl and Tk.",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1639505550,
+      "version": "8.6.12"
+    },
+    "tzdata": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "The Time Zone Database (called tz, tzdb or zoneinfo) contains code and data that represent the history of local time for many representative locations around the globe.  It is updated periodically to reflect changes made by political bodies to time zone boundaries, UTC offsets, and daylight-saving rules.",
+      "dev_url": "https://github.com/eggert/tz",
+      "doc_source_url": null,
+      "doc_url": "https://data.iana.org/time-zones/tz-link.html",
+      "home": "https://www.iana.org/time-zones",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Public-Domain AND BSD-3-clause",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": null,
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "The Time Zone Database (called tz, tzdb or zoneinfo)",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1648717639,
+      "version": "2022a"
+    },
+    "urllib3": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "urllib3 is a powerful, sanity-friendly HTTP client for Python. Much of the Python ecosystem already uses urllib3. urllib3 brings many critical features that are missing from the Python standard libraries, such as thread safety, connection pooling, client side ssl/tls verification, support for gzip and deflate encodings, HTTP and SOCKS proxy support, helpers for retrying requests and dealing with HTTP redirects.",
+      "dev_url": "https://github.com/urllib3/urllib3",
+      "doc_source_url": "https://github.com/urllib3/urllib3/tree/1.26.9/docs",
+      "doc_url": "https://urllib3.readthedocs.io/",
+      "home": "https://urllib3.readthedocs.io/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/u/urllib3/urllib3-1.26.9.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "HTTP library with thread-safe connection pooling, file post, and more.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1650640102,
+      "version": "1.26.9"
+    },
+    "wget": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols.",
+      "dev_url": [
+        "https://savannah.gnu.org/git/?group=wget",
+        "https://git.savannah.gnu.org/git/wget.git"
+      ],
+      "doc_source_url": "https://savannah.gnu.org/projects/wget/",
+      "doc_url": "https://www.gnu.org/software/wget/",
+      "home": "https://www.gnu.org/software/wget/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "GPL-3.0-or-later",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "http://ftp.gnu.org/gnu/wget/wget-1.21.3.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "utility for non-interactive download of files from the Web",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1650648190,
+      "version": "1.21.3"
+    },
+    "wheel": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": null,
+      "dev_url": "https://github.com/pypa/wheel",
+      "doc_source_url": null,
+      "doc_url": "https://github.com/pypa/wheel/blob/master/README.rst",
+      "home": "https://github.com/pypa/wheel",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "MIT",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {},
+      "source_git_url": null,
+      "source_url": "https://pypi.io/packages/source/w/wheel/wheel-0.37.1.tar.gz",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "A built-package format for Python.",
+      "tags": null,
+      "text_prefix": false,
+      "timestamp": 1641824520,
+      "version": "0.37.1"
+    },
+    "xz": {
+      "activate.d": false,
+      "binary_prefix": true,
+      "deactivate.d": false,
+      "description": "XZ Utils is free general-purpose data compression software with a high compression ratio. XZ Utils were written for POSIX-like systems, but also work on some not-so-POSIX systems.",
+      "dev_url": "https://git.tukaani.org/",
+      "doc_source_url": "https://github.com/xz-mirror/xz/blob/master/README",
+      "doc_url": "https://tukaani.org/xz/",
+      "home": "https://tukaani.org/xz/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "LGPL-2.1-or-later and GPL-2.0-or-later",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "5.2.5": {
+          "weak": [
+            "xz >=5.2.5,<6.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": "https://downloads.sourceforge.net/project/lzmautils/xz-5.2.5.tar.bz2",
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Data compression software with high compression ratio",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1651602137,
+      "version": "5.2.5"
+    },
+    "zlib": {
+      "activate.d": false,
+      "binary_prefix": false,
+      "deactivate.d": false,
+      "description": "zlib is designed to be a free, general-purpose, lossless data-compression library for use on virtually any computer hardware and operating system.",
+      "dev_url": "https://github.com/madler/zlib",
+      "doc_source_url": null,
+      "doc_url": "http://zlib.net/manual.html",
+      "home": "http://zlib.net/",
+      "icon_hash": null,
+      "icon_url": null,
+      "identifiers": null,
+      "keywords": null,
+      "license": "Zlib",
+      "post_link": false,
+      "pre_link": false,
+      "pre_unlink": false,
+      "recipe_origin": null,
+      "run_exports": {
+        "1.2.12": {
+          "weak": [
+            "libzlib >=1.2.12,<1.3.0a0"
+          ]
+        }
+      },
+      "source_git_url": null,
+      "source_url": [
+        "http://zlib.net/zlib-1.2.12.tar.gz",
+        "https://gnupg.org/ftp/gcrypt/zlib/zlib-1.2.12.tar.gz"
+      ],
+      "subdirs": [
+        "linux-64"
+      ],
+      "summary": "Massively spiffy yet delicately unobtrusive compression library",
+      "tags": null,
+      "text_prefix": true,
+      "timestamp": 1657716512,
+      "version": "1.2.12"
+    }
+  },
+  "subdirs": [
+    "linux-64",
+    "noarch"
+  ]
+}
