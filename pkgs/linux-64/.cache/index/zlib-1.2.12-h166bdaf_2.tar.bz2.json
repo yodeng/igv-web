@@ -1,0 +1,1 @@
+{"build": "h166bdaf_2", "build_number": 2, "depends": ["libgcc-ng >=12", "libzlib 1.2.12 h166bdaf_2"], "license": "Zlib", "license_family": "Other", "name": "zlib", "subdir": "linux-64", "timestamp": 1657716512764, "version": "1.2.12", "size": 93159, "md5": "4533821485cde83ab12ff3d8bda83768", "sha256": "084342e7f0d2feeca6eb0f194f0a82ac75217730745e6c9033016ed015283bcc"}

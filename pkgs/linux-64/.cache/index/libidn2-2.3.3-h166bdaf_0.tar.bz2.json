@@ -1,0 +1,1 @@
+{"build": "h166bdaf_0", "build_number": 0, "depends": ["gettext >=0.19.8.1,<1.0a0", "libgcc-ng >=12", "libunistring >=0,<1.0a0"], "license": "LGPLv2", "name": "libidn2", "subdir": "linux-64", "timestamp": 1657588970368, "version": "2.3.3", "size": 158941, "md5": "7726ff4317aaecba7a4e7c2a16d38b21", "sha256": "6051ca2b05ff5d08fcc1b5b653d34454dc0a099eec374683fea7ada6033bac62"}

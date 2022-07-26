@@ -1,0 +1,1 @@
+{"build": "h7f98852_0", "build_number": 0, "depends": ["libgcc-ng >=9.3.0"], "license": "GPL-3.0-only OR LGPL-3.0-only", "name": "libunistring", "subdir": "linux-64", "timestamp": 1626955018689, "version": "0.9.10", "size": 1433436, "md5": "7245a044b4a1980ed83196176b78b73a", "sha256": "e88c45505921db29c08df3439ddb7f771bbff35f95e7d3103bf365d5d6ce2a6d"}

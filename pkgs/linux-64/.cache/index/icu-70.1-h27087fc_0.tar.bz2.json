@@ -1,0 +1,1 @@
+{"build": "h27087fc_0", "build_number": 0, "depends": ["libgcc-ng >=10.3.0", "libstdcxx-ng >=10.3.0"], "license": "MIT", "name": "icu", "subdir": "linux-64", "timestamp": 1648050221778, "version": "70.1", "size": 14191488, "md5": "87473a15119779e021c314249d4b4aed", "sha256": "1d7950f3be4637ab915d886304e57731d39a41ab705ffc95c4681655c459374a"}

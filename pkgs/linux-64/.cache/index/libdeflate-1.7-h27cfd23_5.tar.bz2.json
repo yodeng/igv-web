@@ -1,0 +1,1 @@
+{"build": "h27cfd23_5", "build_number": 5, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "name": "libdeflate", "subdir": "linux-64", "timestamp": 1611255495157, "version": "1.7", "size": 73823, "md5": "ea4a2376d5602b194c36389de2baa19c", "sha256": "03a149b4a392eaec990a7faa7924c0d38ee522742f2780f8f17f95299d5a9270"}

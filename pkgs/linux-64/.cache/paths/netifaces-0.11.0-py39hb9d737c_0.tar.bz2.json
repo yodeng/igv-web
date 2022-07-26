@@ -1,0 +1,65 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "b20b895164b72b9cc0170e6c0d60b14f9aaacc6862c0556eed41eaa348883705",
+      "size_in_bytes": 1066
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "f6b8dc39aaefc39914b6e0404840a168a523409e4ed9c1e72dbd01a1a4103167",
+      "size_in_bytes": 8931
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "bf28af33485a09559de37be153bb38da08396c03c9293f58a5249087e70bba7a",
+      "size_in_bytes": 877
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "fd3cea8db975b7fda98fd81f64fbc6d69a72bda3b2a3151ad39de77e1e34ac4f",
+      "size_in_bytes": 103
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "9751f0cc9f73877d18eb556ebe68691c48a13fc6756a2b10d5733025649e7207",
+      "size_in_bytes": 105
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "3ea313688b96b528e47501d7ea51f52e6a6fd9aa81518006a804c1f33dc0e934",
+      "size_in_bytes": 10
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces-0.11.0.dist-info/zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.9/site-packages/netifaces.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "755ee605fda87fd1c78d08565ee35349a4d4c97289f1b7f844665f593d7c9cbc",
+      "size_in_bytes": 26176
+    }
+  ],
+  "paths_version": 1
+}

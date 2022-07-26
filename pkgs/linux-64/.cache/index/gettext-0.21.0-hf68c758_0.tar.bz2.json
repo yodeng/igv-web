@@ -1,0 +1,1 @@
+{"build": "hf68c758_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0", "libxml2 >=2.9.10,<2.10.0a0"], "license": "GPL-2.0", "name": "gettext", "subdir": "linux-64", "timestamp": 1617290893597, "version": "0.21.0", "size": 3575487, "md5": "7b50d8014e3ffd9258944e356c2fec93", "sha256": "ed1517be29af622c3ddb2be99e601842f080e923d73209182fcebfbe53dcbb71"}

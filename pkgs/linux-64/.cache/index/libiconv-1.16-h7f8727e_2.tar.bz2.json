@@ -1,0 +1,1 @@
+{"build": "h7f8727e_2", "build_number": 2, "depends": ["libgcc-ng >=7.5.0"], "license": "GPL-3.0-or-later", "license_family": "GPL3", "name": "libiconv", "subdir": "linux-64", "timestamp": 1650983457202, "version": "1.16", "size": 1454956, "md5": "a8345526ee5452b2c8de4c5ac5b1c05f", "sha256": "0eaee595266540cf3c81fb96e99fdca0e3ea2d20f2cb72a9f148b92e92b2f1a0"}

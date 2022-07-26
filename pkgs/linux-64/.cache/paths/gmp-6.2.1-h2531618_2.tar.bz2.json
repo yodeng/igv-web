@@ -1,0 +1,101 @@
+{
+  "paths": [
+    {
+      "_path": "include/gmp.h",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/gmp_1612242747963/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "c380d4abe4189f595767ea43cbbbeb19e6bd211e80cf1c9a4c483f52ff2d591b",
+      "size_in_bytes": 84768
+    },
+    {
+      "_path": "include/gmpxx.h",
+      "path_type": "hardlink",
+      "sha256": "0011ae411a0bc1030e07d968b32fdc1343f5ac2a17b7d28f493e7976dde2ac82",
+      "size_in_bytes": 129113
+    },
+    {
+      "_path": "lib/libgmp.a",
+      "path_type": "hardlink",
+      "sha256": "d86f61896b834f873d5fbf2117465b05ed2dee2f90f1dd8b0dcd6cecf1621874",
+      "size_in_bytes": 1774672
+    },
+    {
+      "_path": "lib/libgmp.so",
+      "path_type": "softlink",
+      "sha256": "9b8f4512f3413d10a80398a16cbbcd36ba79bc3c50b372e54194b493813dab5a",
+      "size_in_bytes": 736088
+    },
+    {
+      "_path": "lib/libgmp.so.10",
+      "path_type": "softlink",
+      "sha256": "9b8f4512f3413d10a80398a16cbbcd36ba79bc3c50b372e54194b493813dab5a",
+      "size_in_bytes": 736088
+    },
+    {
+      "_path": "lib/libgmp.so.10.4.1",
+      "path_type": "hardlink",
+      "sha256": "9b8f4512f3413d10a80398a16cbbcd36ba79bc3c50b372e54194b493813dab5a",
+      "size_in_bytes": 736088
+    },
+    {
+      "_path": "lib/libgmpxx.a",
+      "path_type": "hardlink",
+      "sha256": "fe40c0b64a21f3282201ab6627164d77b331f45b9d7bfba8383d6cf4cc145a48",
+      "size_in_bytes": 63870
+    },
+    {
+      "_path": "lib/libgmpxx.so",
+      "path_type": "softlink",
+      "sha256": "6ea503fce6cf0fc65de7555295a91c7a0e3e56f8e304b581933487a2155d0786",
+      "size_in_bytes": 43120
+    },
+    {
+      "_path": "lib/libgmpxx.so.4",
+      "path_type": "softlink",
+      "sha256": "6ea503fce6cf0fc65de7555295a91c7a0e3e56f8e304b581933487a2155d0786",
+      "size_in_bytes": 43120
+    },
+    {
+      "_path": "lib/libgmpxx.so.4.6.1",
+      "path_type": "hardlink",
+      "sha256": "6ea503fce6cf0fc65de7555295a91c7a0e3e56f8e304b581933487a2155d0786",
+      "size_in_bytes": 43120
+    },
+    {
+      "_path": "lib/pkgconfig/gmp.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/gmp_1612242747963/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "4cf494a03ac74480b87897b4ee8024c3a5d4ef1316cf9577d224e72323918e42",
+      "size_in_bytes": 496
+    },
+    {
+      "_path": "lib/pkgconfig/gmpxx.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/tmp/build/80754af9/gmp_1612242747963/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "793887cbac5102d549c0ec2863d321ef609d8c2b92d7332160037a36fc9b2544",
+      "size_in_bytes": 531
+    },
+    {
+      "_path": "share/info/gmp.info",
+      "path_type": "hardlink",
+      "sha256": "b5e40cce79506dd1478d0cffd4a7d541df492783094c8d1c01893e6315ea22fb",
+      "size_in_bytes": 5931
+    },
+    {
+      "_path": "share/info/gmp.info-1",
+      "path_type": "hardlink",
+      "sha256": "efa500fb0ae8b4ae2632a238a4d7def02777ae1963646a716b7dda427cfd85a1",
+      "size_in_bytes": 302874
+    },
+    {
+      "_path": "share/info/gmp.info-2",
+      "path_type": "hardlink",
+      "sha256": "5e7c2f97937488b57b47e896feb2a60a2f9d6654257f5856f4d2ce83700b7f7f",
+      "size_in_bytes": 216314
+    }
+  ],
+  "paths_version": 1
+}

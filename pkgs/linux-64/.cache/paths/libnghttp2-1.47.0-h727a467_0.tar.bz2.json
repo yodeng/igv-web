@@ -1,0 +1,105 @@
+{
+  "paths": [
+    {
+      "_path": "bin/h2load",
+      "path_type": "hardlink",
+      "sha256": "f9612f48605fd86f444eaf9cfcfb4654cc94d9db922f5a3bfe9aca634e03de9b",
+      "size_in_bytes": 270472
+    },
+    {
+      "_path": "bin/nghttp",
+      "path_type": "hardlink",
+      "sha256": "8b2a28af581890dd289111b0dc47272e0d9b4ef144e705f64f94ff9c43d0e3cd",
+      "size_in_bytes": 245528
+    },
+    {
+      "_path": "bin/nghttpd",
+      "path_type": "hardlink",
+      "sha256": "d677434c0a2c595922e7783af887e607be766b1cf3ce90f1a76316dd718d1b47",
+      "size_in_bytes": 193384
+    },
+    {
+      "_path": "bin/nghttpx",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/nghttp2_1645636407791/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "065f13864e65c10cb52b33744200f772afd4458f936e2e6ff1a4a052c847399e",
+      "size_in_bytes": 1290896
+    },
+    {
+      "_path": "include/nghttp2/nghttp2.h",
+      "path_type": "hardlink",
+      "sha256": "584254451b3e4d7797be44838464ae16ef18ce124ca521d71a8eaddbcb07b73d",
+      "size_in_bytes": 196567
+    },
+    {
+      "_path": "include/nghttp2/nghttp2ver.h",
+      "path_type": "hardlink",
+      "sha256": "c9e43687eb279b8f4e37a25ee42e447ae9c3e8110402a5f246d554cdb1eadfef",
+      "size_in_bytes": 1605
+    },
+    {
+      "_path": "lib/libnghttp2.so",
+      "path_type": "softlink",
+      "sha256": "914cee28ab368174008a48a77e0865e579b376f38d66ae7c063f3186f00c8817",
+      "size_in_bytes": 185944
+    },
+    {
+      "_path": "lib/libnghttp2.so.14",
+      "path_type": "softlink",
+      "sha256": "914cee28ab368174008a48a77e0865e579b376f38d66ae7c063f3186f00c8817",
+      "size_in_bytes": 185944
+    },
+    {
+      "_path": "lib/libnghttp2.so.14.21.2",
+      "path_type": "hardlink",
+      "sha256": "914cee28ab368174008a48a77e0865e579b376f38d66ae7c063f3186f00c8817",
+      "size_in_bytes": 185944
+    },
+    {
+      "_path": "lib/pkgconfig/libnghttp2.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/nghttp2_1645636407791/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "69bfbef6d3bfbf2cfedd6061298cf1b06ca5edb11f2c71462de1226685d1588a",
+      "size_in_bytes": 1633
+    },
+    {
+      "_path": "share/doc/nghttp2/README.rst",
+      "path_type": "hardlink",
+      "sha256": "46e5cbf4b10d105a683c32848c543c600c57b571813611c37d8a5b855823209f",
+      "size_in_bytes": 56704
+    },
+    {
+      "_path": "share/man/man1/h2load.1",
+      "path_type": "hardlink",
+      "sha256": "b3860ae5255bfe3be3350b9ef7c57644bff67046012ac108d2a29796bcc3b9a9",
+      "size_in_bytes": 15682
+    },
+    {
+      "_path": "share/man/man1/nghttp.1",
+      "path_type": "hardlink",
+      "sha256": "2e2553ed3ed713c165bc3fc49330942351e915a3a2b71b7fd942aea2373e9321",
+      "size_in_bytes": 8861
+    },
+    {
+      "_path": "share/man/man1/nghttpd.1",
+      "path_type": "hardlink",
+      "sha256": "b7c90db78294fb77f3723ea4d4520db7ecfa018e51d82260b5f74b8df20a3ed9",
+      "size_in_bytes": 5398
+    },
+    {
+      "_path": "share/man/man1/nghttpx.1",
+      "path_type": "hardlink",
+      "sha256": "6667061ab67b471bfde2281b0f409ef6239254c6e25726b2cfe6e2d4281b64e7",
+      "size_in_bytes": 92242
+    },
+    {
+      "_path": "share/nghttp2/fetch-ocsp-response",
+      "path_type": "hardlink",
+      "sha256": "400863baa375f1b465e0f72bfe6bc18f6ac13cc065fa9fc66254df9e88e7ff5c",
+      "size_in_bytes": 8987
+    }
+  ],
+  "paths_version": 1
+}

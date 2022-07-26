@@ -1,0 +1,1 @@
+{"build": "h8d9b700_16", "build_number": 16, "depends": ["_libgcc_mutex 0.1 conda_forge"], "license": "GPL-3.0-only WITH GCC-exception-3.1", "name": "libgomp", "subdir": "linux-64", "timestamp": 1652326149948, "version": "12.1.0", "size": 470318, "md5": "f013cf7749536ce43d82afbffdf499ab", "sha256": "499fab15d3897a7bf7a1d82dd44c76dad1ceeaec0b71e348e77fb8a753ff898d"}

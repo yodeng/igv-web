@@ -1,0 +1,107 @@
+{
+  "paths": [
+    {
+      "_path": "bin/curl-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/curl_split_recipe_1652281454862/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "aa9135a457a0b44b3489a0b664b04dc75e62c112b01cc19e36cd8d9005a6e708",
+      "size_in_bytes": 13392
+    },
+    {
+      "_path": "include/curl/curl.h",
+      "path_type": "hardlink",
+      "sha256": "9d00078dcef40069c33dddfe3020ee64299845a3b7d0e1a4c0a0b22a306832c6",
+      "size_in_bytes": 120770
+    },
+    {
+      "_path": "include/curl/curlver.h",
+      "path_type": "hardlink",
+      "sha256": "577caabbddf5c23a0b5e4d022dbc6793c24ef9c10d467fceea43ba632f5c3a51",
+      "size_in_bytes": 3035
+    },
+    {
+      "_path": "include/curl/easy.h",
+      "path_type": "hardlink",
+      "sha256": "9896c321957855049568eacbfa2ac89d3f8d145f40b1722ce793ece70436bc0c",
+      "size_in_bytes": 3980
+    },
+    {
+      "_path": "include/curl/header.h",
+      "path_type": "hardlink",
+      "sha256": "a60f2338113afc865889e59cb92e2b3a39dba76b2b83f1722d62206ca9608153",
+      "size_in_bytes": 2793
+    },
+    {
+      "_path": "include/curl/mprintf.h",
+      "path_type": "hardlink",
+      "sha256": "80c2c9a9a292ce2dd481f9590f28239546be8a50256ceac64b3756769d9dd4fc",
+      "size_in_bytes": 2069
+    },
+    {
+      "_path": "include/curl/multi.h",
+      "path_type": "hardlink",
+      "sha256": "81824cac857035986a588fcf7ccf14dba898425ef1a82088c7399310bd5f842b",
+      "size_in_bytes": 17235
+    },
+    {
+      "_path": "include/curl/options.h",
+      "path_type": "hardlink",
+      "sha256": "490724fbf5185e6fb8f522c4130c4fdac1c8679255f8f8499adf6b5c437932be",
+      "size_in_bytes": 2378
+    },
+    {
+      "_path": "include/curl/stdcheaders.h",
+      "path_type": "hardlink",
+      "sha256": "1591101806b3e82f6853be35a11fa9111f8d597eabbc1860b5d05bc50498f2d4",
+      "size_in_bytes": 1339
+    },
+    {
+      "_path": "include/curl/system.h",
+      "path_type": "hardlink",
+      "sha256": "c484f99f83a94132135fe73acc0454222e2e6cee8897026f37751fa1d3b37dbd",
+      "size_in_bytes": 18488
+    },
+    {
+      "_path": "include/curl/typecheck-gcc.h",
+      "path_type": "hardlink",
+      "sha256": "cf6bde6dec32a76365aea825ca71969e2a95ce2b9325c29dd79112570ff48b61",
+      "size_in_bytes": 42907
+    },
+    {
+      "_path": "include/curl/urlapi.h",
+      "path_type": "hardlink",
+      "sha256": "3b916fd6e6fcdec734e938e714aad2392ac51d4dd889108f04f252fc5f5d26f1",
+      "size_in_bytes": 5257
+    },
+    {
+      "_path": "lib/libcurl.so",
+      "path_type": "softlink",
+      "sha256": "1dfeade303dff9b813198c9ea82ed95259db37b5b0d59bf7339581868f1960e5",
+      "size_in_bytes": 722536
+    },
+    {
+      "_path": "lib/libcurl.so.4",
+      "path_type": "softlink",
+      "sha256": "1dfeade303dff9b813198c9ea82ed95259db37b5b0d59bf7339581868f1960e5",
+      "size_in_bytes": 722536
+    },
+    {
+      "_path": "lib/libcurl.so.4.8.0",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/curl_split_recipe_1652281454862/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "1dfeade303dff9b813198c9ea82ed95259db37b5b0d59bf7339581868f1960e5",
+      "size_in_bytes": 722536
+    },
+    {
+      "_path": "lib/pkgconfig/libcurl.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/curl_split_recipe_1652281454862/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "d5b7d01aca12422e97d3452b690827ddc3c0bb47eeefd99e8776f7ae3b611109",
+      "size_in_bytes": 2255
+    }
+  ],
+  "paths_version": 1
+}

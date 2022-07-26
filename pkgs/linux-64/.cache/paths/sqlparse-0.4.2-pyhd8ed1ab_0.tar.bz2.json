@@ -1,0 +1,191 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/AUTHORS",
+      "path_type": "hardlink",
+      "sha256": "07cdf4a8866a8cde31041714f1101467e67909e283c7a76ed431b070287347b9",
+      "size_in_bytes": 2754
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "c1938235b80d39e93138eae89edc3af67e18ecbc40d266529fa57b2dce426310",
+      "size_in_bytes": 1537
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "2503d1b11982136842fc7abb06f7bbedc3b48454833568ee2746cba230a845dd",
+      "size_in_bytes": 3490
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "ad5870a7954173dabcb7a43147f83dc75df3ce432cdaaadc8dafe3ecfe74fa59",
+      "size_in_bytes": 3756
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "a02f1b3fe0e96e544339b2f1a41f0a33552d726860d941e5499383ce860c9aa4",
+      "size_in_bytes": 104
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "4b65b184f967ef35f26ca444ef77a40627171e1eff057f8a60615965a186aa9f",
+      "size_in_bytes": 54
+    },
+    {
+      "_path": "site-packages/sqlparse-0.4.2.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "791622b0e47b77c12d2ca5ee59450000c3a138322d3aaae4a71900183f02212a",
+      "size_in_bytes": 9
+    },
+    {
+      "_path": "site-packages/sqlparse/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "01391167ae314b55eea8ba277b458d0754805b7097d7402f99b5cf51e49262e3",
+      "size_in_bytes": 2180
+    },
+    {
+      "_path": "site-packages/sqlparse/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "d6385514b1e566ce0d509a00b87bd040a5a0ca43d54dd81e13c5785c1e56433c",
+      "size_in_bytes": 610
+    },
+    {
+      "_path": "site-packages/sqlparse/cli.py",
+      "path_type": "hardlink",
+      "sha256": "f37807816d264d05c96eff88b6900465aabbfb696f5a28f49a0d9c5661baeca0",
+      "size_in_bytes": 5712
+    },
+    {
+      "_path": "site-packages/sqlparse/engine/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "8bd921d1448c8e4d5bc0a3c54e7e8ad0f282e791ceaaf9e4a311e2d6ded871c1",
+      "size_in_bytes": 447
+    },
+    {
+      "_path": "site-packages/sqlparse/engine/filter_stack.py",
+      "path_type": "hardlink",
+      "sha256": "70877dbe7cf42a9b618379637675f621debebf3d33a4a1e8315fc5a84604b185",
+      "size_in_bytes": 1193
+    },
+    {
+      "_path": "site-packages/sqlparse/engine/grouping.py",
+      "path_type": "hardlink",
+      "sha256": "72857ea1b820f844c38624af3642b180708876ac73fb451d408a8fe8179d5fbd",
+      "size_in_bytes": 13492
+    },
+    {
+      "_path": "site-packages/sqlparse/engine/statement_splitter.py",
+      "path_type": "hardlink",
+      "sha256": "fa29e31644c250a42d8762372b53e0b8590490f0a2025c64cd957ae3f08c9740",
+      "size_in_bytes": 3758
+    },
+    {
+      "_path": "site-packages/sqlparse/exceptions.py",
+      "path_type": "hardlink",
+      "sha256": "43267d4ca4efce0726b90d5c264c408fd4a8030e0cd36f817f409250d58d0ca3",
+      "size_in_bytes": 342
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "3dc4bb0a494dfaaa667d8848778a064f251bedabb5034683fb6d513ff6ec7d06",
+      "size_in_bytes": 1242
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/aligned_indent.py",
+      "path_type": "hardlink",
+      "sha256": "92f3794d5331a2fc97e9c0e79b117eb7e294cf6467cdb4357c8433748c586368",
+      "size_in_bytes": 5110
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/others.py",
+      "path_type": "hardlink",
+      "sha256": "368f1185d513f2d77a234afdbb133a1ae23f6a50ec13d16115fb5c669abce7a7",
+      "size_in_bytes": 5180
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/output.py",
+      "path_type": "hardlink",
+      "sha256": "38c49a9523efab7b37fabdbaf138eff809ad8d33427e12dac96b5014ee68c951",
+      "size_in_bytes": 4001
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/reindent.py",
+      "path_type": "hardlink",
+      "sha256": "cb4f74b13ecc738e01c3d2272aa275bbf07351373cd56d0bd4df8154b569abca",
+      "size_in_bytes": 9549
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/right_margin.py",
+      "path_type": "hardlink",
+      "sha256": "1e297af76241dd992230fa4f3d970c5224548c3a668458ae01152ee7f8a6ca6f",
+      "size_in_bytes": 1543
+    },
+    {
+      "_path": "site-packages/sqlparse/filters/tokens.py",
+      "path_type": "hardlink",
+      "sha256": "099c03c0ccf339dab4aaf4d120889cef0e7d839e108701603363a9f7ddf666f9",
+      "size_in_bytes": 1553
+    },
+    {
+      "_path": "site-packages/sqlparse/formatter.py",
+      "path_type": "hardlink",
+      "sha256": "8960cf4210f826a6e20388d9a4ad90059cc4a95002c376d1c1d2e03c899ae251",
+      "size_in_bytes": 7566
+    },
+    {
+      "_path": "site-packages/sqlparse/keywords.py",
+      "path_type": "hardlink",
+      "sha256": "499b98c8c37556e05d7e63da49af829f309aa9e7ccb10b354aa6bfb6c6b6fcba",
+      "size_in_bytes": 29560
+    },
+    {
+      "_path": "site-packages/sqlparse/lexer.py",
+      "path_type": "hardlink",
+      "sha256": "dc4de35407af660a59a58eaf5cfb557bd89f4da39ed78281ec1a4c752de1622b",
+      "size_in_bytes": 2453
+    },
+    {
+      "_path": "site-packages/sqlparse/sql.py",
+      "path_type": "hardlink",
+      "sha256": "6d9c17548441c42e0741fa75601d2163790597f9e0ef689c15f5d8f6ce58c63d",
+      "size_in_bytes": 20472
+    },
+    {
+      "_path": "site-packages/sqlparse/tokens.py",
+      "path_type": "hardlink",
+      "sha256": "34c51d061dd73ca93e0feb989ffb6a2aa76c0ffb975595b39281c8cb4bc41290",
+      "size_in_bytes": 1661
+    },
+    {
+      "_path": "site-packages/sqlparse/utils.py",
+      "path_type": "hardlink",
+      "sha256": "19b08ddbdb2e6437fb942533414aa3ec0c2d0a2b29b3794721bc8cbf1eb886b9",
+      "size_in_bytes": 3441
+    }
+  ],
+  "paths_version": 1
+}

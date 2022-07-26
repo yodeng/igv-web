@@ -1,0 +1,1 @@
+{"build": "py39h06a4308_0", "build_number": 0, "depends": ["python >=3.9,<3.10.0a0"], "license": "MPL-2.0", "license_family": "Other", "name": "certifi", "subdir": "linux-64", "timestamp": 1655968870556, "version": "2022.6.15", "size": 159804, "md5": "242a8d9e6b3461a6788f602263b2c5f2", "sha256": "3a288101bacfb7897f9940860750fed172b41dd6a2afdcd50e5167386de6d99e"}

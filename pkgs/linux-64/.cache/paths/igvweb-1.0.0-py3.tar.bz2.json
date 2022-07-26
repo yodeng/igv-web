@@ -1,0 +1,271 @@
+{
+  "paths": [
+    {
+      "_path": "bin/igvweb",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/share/data1/dengyong/soft/miniconda3/conda-bld/igvweb_1658745845115/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "8bea0c3e755861c1bdf5176bfcdaa22ccb20bc066612615119eb02ae94a199bb",
+      "size_in_bytes": 493
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/__pycache__/__init__.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "7457db63558885de6cef7ebdc8369e0a04a7ac07b46cc88f98c70fd3d4dccf3f",
+      "size_in_bytes": 134
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/admin.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "899e8ddf8bbe24db9e35a287cacac57b08ab1428db0ba3c909ebffb2d46b03c1",
+      "size_in_bytes": 37752
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/apps.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "a91e9335e04e5f5b2d2ee3595df4a3177106b76b35bb44f815bb6f9ac481f3e6",
+      "size_in_bytes": 30704
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/__pycache__/__init__.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "f49cfa3fe2065cf08e3ac999767f1b519bbc885bdb26a54fd293a0ece14fde0a",
+      "size_in_bytes": 145
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/commands/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/commands/__pycache__/__init__.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "3beea207c8608a7c4a682c550ecac105e848c4c3d75d6f666268cd5900c1094b",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/commands/download.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "e952890fcc6e0283581355a215b51808cfdf3c6b1743cc92b926c0cdfd416fe6",
+      "size_in_bytes": 101720
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/management/commands/info.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "a6225ed751139779a40d318229786fa15498522ef0b87caa6de2da9e549e56e1",
+      "size_in_bytes": 64448
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/migrations/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/migrations/__pycache__/__init__.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "4b22f2eb532a31bdba1badce49a0fc38bb95ea846153dba8c71d5546d0f97247",
+      "size_in_bytes": 145
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/models.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "f787dd5d3c19d3d441951263339c046593447c6e6c0ff468c52853061a244df8",
+      "size_in_bytes": 65760
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/tests.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "85b1fde5681dd4a36a188cc3f9318c5280d1dec3f5d44072c68a81300963ad8d",
+      "size_in_bytes": 29152
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/urls.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "b32a80096ea3a7c6e26214982b867a1162f6c5c0961bfce59850a21c3fdc46ef",
+      "size_in_bytes": 38104
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/utils.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "ad2fed43c26e958cfdd44be3df787d78b2691191420fa9c3375e96fa6f034fe1",
+      "size_in_bytes": 133632
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igv/views.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "fee17e27e49c55e5d2d0d2e70557046bc8f78ed84e864a943bcd80b9a1bfc7ae",
+      "size_in_bytes": 234688
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "34f853894eb11189c53cb07dae59ac4d57d4eea2c91ee053e9b990dca1640601",
+      "size_in_bytes": 1094
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "2d5c576abf6a3bce4693a609533fff5f6c16b0cf9705431529bdaa6594b0627b",
+      "size_in_bytes": 1682
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "75ece33162b602bf799746b892d8fd3f5016b078dbfe6cc05789e444592e881f",
+      "size_in_bytes": 3556
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "fd3cea8db975b7fda98fd81f64fbc6d69a72bda3b2a3151ad39de77e1e34ac4f",
+      "size_in_bytes": 103
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "a833ff7528b82fcedba16210bee6a95549af2f5126bd00176d20a0b4457a3ca9",
+      "size_in_bytes": 107
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "0a79cd4a918cb2b8fd292dd1ff6fa3874b2c013e642e2b6de839b7bb0be07b8e",
+      "size_in_bytes": 44
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb-1.0.0.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "f0f9f686ce5101e4c5913b0fd7faa463a39c284258f8584c5f9a3d64760029c4",
+      "size_in_bytes": 11
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "6728002245fa35b8da83573359d41afb23fe18cd66044ffdb2cdb55e1fff2457",
+      "size_in_bytes": 34
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/__pycache__/__init__.cpython-39.pyc",
+      "path_type": "hardlink",
+      "sha256": "d23862a4807900c8763fc303e635cc3cfc714813fe8217a8da04650af1c4e77a",
+      "size_in_bytes": 181
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/_version.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "25c709218c4bf92996e9ccd244e48d66d0608bf2d54b5bc5b81196101926fb9c",
+      "size_in_bytes": 24016
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/config.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "16b912112b233ebf4e513e399366d2e3dd0adb9685b8d6e14c53a55529300607",
+      "size_in_bytes": 140616
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/igvweb.ini",
+      "path_type": "hardlink",
+      "sha256": "04ad2d285046bad0c147a557dd6824116cb0b40a5b47b5b4d4e07201aa73f676",
+      "size_in_bytes": 202
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/license.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "28cd97ebcdf06e0c6fcecefda0de5248ed780f446e0e296a79e773283dfbc3fe",
+      "size_in_bytes": 237752
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/license.lic",
+      "path_type": "hardlink",
+      "sha256": "842fd657cd7f3bb27b440ef7f4414d5d1e9a49e6e5417a50ab8c0c6091e148fc",
+      "size_in_bytes": 392
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/main.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "e3f1f08f428273b0b7e52bcb9e19e83378fb8d03bcba26709a2691daade6a3a9",
+      "size_in_bytes": 82832
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/settings.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "25aa71ff2bc05ba0a9ab94f50a5983847d193a7b1f23cca807a9f860250b4cf8",
+      "size_in_bytes": 66456
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/static/igv/js/igv.js",
+      "path_type": "hardlink",
+      "sha256": "56a0a0c981e86465cc68b04211f8d26b75b8443cf096c59ce8ee6b2f8e77107a",
+      "size_in_bytes": 2150538
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/static/images/404.jpg",
+      "path_type": "hardlink",
+      "sha256": "ecab95f4a822fa25e83510681e1cb42fc00c7a0857f5a6090b751768722d505a",
+      "size_in_bytes": 30659
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/static/images/favicon.ico",
+      "path_type": "hardlink",
+      "sha256": "e16e59e79b2339bdff3f843193d3ee412f397cb278eb031febb9f0729b676760",
+      "size_in_bytes": 1150
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/template/404.html",
+      "path_type": "hardlink",
+      "sha256": "1c619a2235158cfa2b8ea8e2ea6e66f6238c6767aa70e9a156b31b03e42c356a",
+      "size_in_bytes": 1024
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/template/igv/multi-snv.html",
+      "path_type": "hardlink",
+      "sha256": "f30040fb48101a1d2ab1fdcd78e63ae4527e2fd8616db48ae74b3e5ca3ebc970",
+      "size_in_bytes": 4469
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/template/igv/query.html",
+      "path_type": "hardlink",
+      "sha256": "ce564a27adb85d0227ced5886fa2242414b6d24ff344bded997460855ae48686",
+      "size_in_bytes": 3352
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/urls.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "218e8ba4243767b47896fe97c45edc6c8e231c7b20a267a2a6142bba6f4536c0",
+      "size_in_bytes": 31624
+    },
+    {
+      "_path": "lib/python3.9/site-packages/igvweb/wsgi.cpython-39-x86_64-linux-gnu.so",
+      "path_type": "hardlink",
+      "sha256": "c6369bc07389e734f302cb8284c0ec1f6b593570259926bfb5df89b26eb79c0e",
+      "size_in_bytes": 31016
+    }
+  ],
+  "paths_version": 1
+}

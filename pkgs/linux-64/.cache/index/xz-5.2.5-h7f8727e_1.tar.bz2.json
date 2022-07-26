@@ -1,0 +1,1 @@
+{"build": "h7f8727e_1", "build_number": 1, "depends": ["libgcc-ng >=7.5.0"], "license": "LGPL-2.1-or-later and GPL-2.0-or-later", "license_family": "GPL2", "name": "xz", "subdir": "linux-64", "timestamp": 1651602137803, "version": "5.2.5", "size": 398058, "md5": "94cb94dc47405b24b1b5bd0a3275ab59", "sha256": "2ce360ff98c0ca4537d70c19266b5700810196c54ce2fbaff3b94a969846ee37"}

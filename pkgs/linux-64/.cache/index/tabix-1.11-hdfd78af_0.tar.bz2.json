@@ -1,0 +1,1 @@
+{"build": "hdfd78af_0", "build_number": 0, "depends": ["htslib >=1.9"], "license": "MIT", "name": "tabix", "noarch": "generic", "subdir": "noarch", "timestamp": 1619076843104, "version": "1.11", "size": 6062, "md5": "cb68d74b5a5ca94b745ce168b1043dfd", "sha256": "9cc71617773a5d12e696d707b8bfa8934984b59e75913a32b65ea3c2121669a7"}

@@ -1,0 +1,137 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "eb31a0c5a4fb09b8a4e32055d25c1e5f9c358a2752fef3cd720213d1ccfee241",
+      "size_in_bytes": 1070
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "12b8639a87c5e205f4a8ccfda9415ef9438ce8bbb50264ce74089f11b9491c0f",
+      "size_in_bytes": 11698
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "f727cb0b46458d9aadebe01308df72bed18d8e1f04c2bd97e43a569ca7f1bd46",
+      "size_in_bytes": 2771
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "518c7ad5105e610dd10363086e17ac58e97888197223473ed573c9952a6104d7",
+      "size_in_bytes": 114
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "b98a3c68818b5aff188167d29dae479df63f127e29905d70e1b81ac0d017ccfd",
+      "size_in_bytes": 76
+    },
+    {
+      "_path": "site-packages/charset_normalizer-2.1.0.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "ec04b2cde3ebf3fc6e65626c9ea263201b7257cbe1128d30042bf530f4518b74",
+      "size_in_bytes": 19
+    },
+    {
+      "_path": "site-packages/charset_normalizer/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c76036396dbd30172a771b2fcbab75c33914947de66b482ec4be9909f4bc27de",
+      "size_in_bytes": 1790
+    },
+    {
+      "_path": "site-packages/charset_normalizer/api.py",
+      "path_type": "hardlink",
+      "sha256": "2f0277d9904bbfbf5e85f58df27b2cec5fbe424b2c35020e4328c3d7fb7d6bbd",
+      "size_in_bytes": 18960
+    },
+    {
+      "_path": "site-packages/charset_normalizer/assets/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "657cddcbedcf1ed0a57414c5fb7b4323da8444b2a9f4037ecadfac07a7c8305b",
+      "size_in_bytes": 15222
+    },
+    {
+      "_path": "site-packages/charset_normalizer/cd.py",
+      "path_type": "hardlink",
+      "sha256": "814c1d327d83bbebb7d48e1596618ad82e71d73fd5eaf86a15f108a7dc35b84d",
+      "size_in_bytes": 10780
+    },
+    {
+      "_path": "site-packages/charset_normalizer/cli/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/charset_normalizer/cli/normalizer.py",
+      "path_type": "hardlink",
+      "sha256": "3664f9192757c7450917165a4a9fc38cfb9d73073b25307e318deb7de9a04e96",
+      "size_in_bytes": 9501
+    },
+    {
+      "_path": "site-packages/charset_normalizer/constant.py",
+      "path_type": "hardlink",
+      "sha256": "36053ea58f091f66bd964553f282b000598851834a3ae481c19805f4cae53423",
+      "size_in_bytes": 19157
+    },
+    {
+      "_path": "site-packages/charset_normalizer/legacy.py",
+      "path_type": "hardlink",
+      "sha256": "5ca7993adb3f1dd61053f25bdc2f597ce8d8d828942f5df693dfe75deafc8228",
+      "size_in_bytes": 3384
+    },
+    {
+      "_path": "site-packages/charset_normalizer/md.py",
+      "path_type": "hardlink",
+      "sha256": "a593fc215a520bcd83f08340f537ffcb48a3252448f94227719bcb75f4d611de",
+      "size_in_bytes": 17642
+    },
+    {
+      "_path": "site-packages/charset_normalizer/models.py",
+      "path_type": "hardlink",
+      "sha256": "5a412bdd9af89bc541c69dffda131784516f4560eaa0b0d72910ed02a04a3108",
+      "size_in_bytes": 13087
+    },
+    {
+      "_path": "site-packages/charset_normalizer/py.typed",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/charset_normalizer/utils.py",
+      "path_type": "hardlink",
+      "sha256": "67e56d2d2ca7a61da3306a73679ae0c76d5133fe002d5a53eb7079950ef1ade6",
+      "size_in_bytes": 11726
+    },
+    {
+      "_path": "site-packages/charset_normalizer/version.py",
+      "path_type": "hardlink",
+      "sha256": "6878466f10b10f7fe7104940a0d6cc46a986a72a8b5826241af6c0107977e2b3",
+      "size_in_bytes": 79
+    }
+  ],
+  "paths_version": 1
+}
